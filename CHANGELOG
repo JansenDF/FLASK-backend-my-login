@@ -1,0 +1,29 @@
+- BACKEND_PLANO_ACAO
+
+# Changelog
+Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
+
+O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+e este projeto segue o [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [NÃO LIBERADO]
+- Modelos
+- Conexão com o banco de dados
+- Serviços
+
+## [0.0.1](https://github.com/tellusDesenv/backend_plano_acao.git) - 2022-04-19
+### Adicionado
+- Modelo da tabela de log
+- Controles da tabela de log (incomplete)
+
+### Corrigido
+- None
+
+### Modificado
+- None
+
+### Obsoleto
+- None
+
+### Removido
+- None
